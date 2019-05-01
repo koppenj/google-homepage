@@ -1,6 +1,7 @@
 
 
 <!-->
+"From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)"
 
 
     Assuming this will be the first true eye opener for me. The Odin Project has tasked me with trying to mimick the Google homepage as an "easy project' in HTML/CSS. I plan on continuing to work on my terminal skills along with implementing GIT for version control. 
