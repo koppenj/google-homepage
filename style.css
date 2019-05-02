@@ -1,4 +1,20 @@
+
 .logo{
-    box-align: center;
-    margin: 0 auto;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    width: 270px;
+    height: 90px;
+    margin-top: -50px;
+    margin-right: -150px;
+
+
+}
+a{
+    text-decoration: none;
+    font-size: 14px;
+    margin-top: 10px;
+    margin-left: 10px;
+    padding-top: 50px;
+
 }
